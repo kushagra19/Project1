@@ -16,7 +16,7 @@ Project1
 For installing the repository use the command below in your terminal.<br>
 <code>
 <blink>
-    git clone https://github.com/your/awesome-project.git     
+    git clone https://github.com/kushagra19/Project1     
 </blink>
 </code>
 ***
