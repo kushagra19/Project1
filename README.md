@@ -40,6 +40,7 @@ Steps to follow if you want to test on your own sample image.
 The folder consists of:
   * create_random_indices.ipynb
   * combine_comp.ipynb
+  * Get_corrupted.ipynb
   * Sample images
   * img.Png
   * R
