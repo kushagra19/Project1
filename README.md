@@ -21,8 +21,8 @@ For installing the repository use the command below in your terminal.<br>
 </code>
 ***
 ## Description
-### Problem3:
-In this problem we were given data and we had to use the convex optimization problem obtained in the theory part of the assignment to reconstruct the given incomplete image.<br />
+### Problem3&4:
+In this problem we were given data and we had to use the convex optimization problem obtained in the theory part of the assignment to solve for optimal solution and then reconstruct the given incomplete image using the soltution obtained.<br />
 This folder consists of following files:
 * **Problem3.ipynb** <br />
 This file uses the data given in the Group1 folder in the assignment data link and uses compressive sensing to reconstruct the image.
