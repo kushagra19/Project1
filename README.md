@@ -51,7 +51,7 @@ The folder consists of:
 * Firstly create data and then use recons for each R,G,B for obtaing reconstructed image of that particular component.
 * Check the R,G,B folders once execution complete.If a new folder 'data for assignment' has been created and file with extension .npy is created then execution is successful.
 * Now for the final step use comine_comp.ipynb to combine all components into one image and compare with the final image.
-* Sample_images contains reconstructed images:
+* Sample_images contains reconstructed images used as a reference:
   * reconstruct_0.4.png - reconstructed image when corruption 40%
   * reconstruct_0.7.png - reconstructed image when corruption 70%
 * img.png is the sample image used for reconstruction.
