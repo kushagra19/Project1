@@ -32,6 +32,9 @@ Once data is installed use the .ipynb file to obtain reconstructed image.<br />
 * **complete.png**<br />
 This is the completed image obtained after running the .ipynb file and kept in the repository for reference.
 
+
+**Libraries required to run the code include numpy,scikit,keras,Imageio and matplotlib which are thoroughly used all over the code.**
+
 ### Problem4&5:
 In this part of the excercise we had to use our own sample RGB image and use the incomplete data to reconstruct the image and compare them.<br />
 Steps to follow if you want to test on your own sample image.
